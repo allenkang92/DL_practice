@@ -1,2 +1,2 @@
-# pytorch_practice
-pytorch_practice
+# DL_practice
+DL_practice
